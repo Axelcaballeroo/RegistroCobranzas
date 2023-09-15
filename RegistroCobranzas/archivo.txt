@@ -1,0 +1,13 @@
+Roberto
+Rodriguez
+2023-09-11
+45000
+Axel
+Caballero
+2023-09-11
+4500
+Lautaro
+Cena
+2023-09-11
+3200
+
